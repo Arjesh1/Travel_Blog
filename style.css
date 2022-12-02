@@ -459,14 +459,26 @@ footer{
 
 .country{ 
     margin-bottom: 1em;
-    margin-left: -1.7em;
+    margin-left: -1.8em;
 }
 
+
+
 .date{
-    margin-left: -1.7em;
+    margin-left: -1.8em;
 }
 
 .card{
+    width: 100%;
+}
+
+/* sidelink blog */
+
+.card2{
+    margin-left: -4em;
+}
+
+.card-list{
     width: 100%;
 }
 
@@ -479,11 +491,12 @@ form{
 form, input{
     width: 100%;
 }
-    .suscribe {
+
+.suscribe {
         width: 100%;
     }
 
-    .contact{
+.contact{
         width: 100%;
     }
 
